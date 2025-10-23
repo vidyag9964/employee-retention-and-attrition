@@ -18,4 +18,4 @@ An interactive machine learning web application to predict employee attrition us
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/vidyag9964/employee-retention-ml.git
+git clone https://github.com/vidyag9964/employee-retention-and-attrition.git
